@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2f84efc-aa40-4584-8873-cb9a409dc6d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../client/src/common/ServerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/ServerData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/MyTubeProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/MyTubeProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperServer/SuperServer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperServer/SuperServer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperServer/src/common/CenterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperServer/src/common/CenterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperServer/src/common/ClientInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperServer/src/common/ClientInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperServer/src/common/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperServer/src/common/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperServer/src/common/TubeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperServer/src/common/TubeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperServer/src/server/CenterImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperServer/src/server/CenterImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperServer/src/server/CentralServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperServer/src/server/CentralServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/ClientImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/ClientImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/common/CenterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/common/CenterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/common/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/common/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/common/ServerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../client/src/common/TubeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../client/src/common/TubeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/CenterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/CenterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/ClientInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ClientInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/TubeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/TubeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/DataBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/TubeImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/TubeImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sql">
+      <favorite_root url="postgresql-42.2.8" type="namedLibrary" klass="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode">
+        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds/common" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds/common/BaseDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds/common/PGObjectFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds/PGPooledConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds/PGSimpleDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds/PGPoolingDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ds/PGConnectionPoolDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/xa" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/xa/RecoveredXid.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/xa/PGXAException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/xa/PGXAConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/xa/PGXADataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/xa/PGXADataSourceFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/gss" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/gss/MakeGSS.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/gss/GssAction.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/gss/GSSCallbackHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/jdbc4" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/jdbc4/LibPQFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/MakeSSL.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/LibPQFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/LazyKeyManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/WrappedFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/NonValidatingFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/DefaultJavaSSLFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/PGjdbcHostnameVerifier.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/DbKeyStoreSocketFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/ssl/SingleCertValidatingFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy/CopyIn.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy/CopyOut.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy/CopyDual.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy/CopyManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy/CopyOperation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy/PGCopyInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/copy/PGCopyOutputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/replication" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/replication/V3PGReplicationStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/replication/V3ReplicationProtocol.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/Portal.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/CopyInImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/CopyOutImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/SimpleQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/BatchedQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/CopyDualImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/CompositeQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/ExecuteRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/DescribeRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/V3ParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/CopyOperationImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/QueryExecutorImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/SimpleParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/ConnectionFactoryImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/CompositeParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/v3/TypeTransferModeRegistry.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Oid.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Field.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Query.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Utils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Parser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Version.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Encoding.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/PGStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Provider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/TypeInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/SqlCommand.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/CachedQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/JavaVersion.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/NativeQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/BaseQueryKey.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/Notification.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ResultCursor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/UTF8Encoding.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/BaseStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/QueryExecutor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ResultHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ServerVersion.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/BaseConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/SqlCommandType.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/PGBindException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/CallableQueryKey.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/SetupQueryRunner.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/TransactionState.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ConnectionFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/EncodingPredictor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/JdbcCallParseInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/QueryExecutorBase.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ResultHandlerBase.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ReplicationProtocol.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/SocketFactoryFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/CommandCompleteParser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/ResultHandlerDelegate.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/CachedQueryCreateAction.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/VisibleBufferedInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/core/QueryWithReturningColumnsKey.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgBlob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgClob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgArray.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/SslMode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/AutoSave.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgSQLXML.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgResultSet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/FieldMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PSQLSavepoint.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/ResultWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/TypeInfoCache.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/TimestampUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/BooleanTypeUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PreferQueryMode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/AbstractBlobClob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/EscapedFunctions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/EscapedFunctions2.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/BatchResultHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PSQLWarningWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgDatabaseMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/UUIDArrayAssistant.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgCallableStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgParameterMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgPreparedStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PgResultSetMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/StatementCancelState.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/PrimitiveArraySupport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc/CallableBatchResultHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jre7" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jre7/sasl" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jre7/sasl/ScramAuthenticator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/osgi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/osgi/PGBundleActivator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/osgi/PGDataSourceFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/sspi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/sspi/NTDSAPI.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/sspi/SSPIClient.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/sspi/ISSPIClient.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/sspi/NTDSAPIWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/GT.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/Base64.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGTime.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGbytea.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGmoney.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/Gettable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/HostSpec.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/LruCache.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGobject.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/URLCoder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/MD5Digest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PSQLState.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/DriverInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGInterval.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGJDBCMain.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGTimestamp.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGtokenizer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PSQLWarning.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/SharedTimer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/ByteConverter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/JdbcBlackHole.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/ObjectFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PSQLException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/StreamWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/WriterHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/PGBinaryObject.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/CanEstimateSize.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/GettableHashMap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/HStoreConverter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/ReaderInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/ServerErrorMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/util/ExpressionProperties.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc2/optional" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc2/optional/ConnectionPool.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc2/optional/SimpleDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc2/optional/PoolingDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc2/ArrayAssistant.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc2/ArrayAssistantRegistry.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc3" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc3/Jdbc3ConnectionPool.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc3/Jdbc3SimpleDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/jdbc3/Jdbc3PoolingDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/client" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/client/ScramClient.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/client/ScramSession.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/client/NonceSupplier.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/CryptoUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/UsAsciiUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/CharAttribute.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/Preconditions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/StringWritable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/StringWritableCsv.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/CharAttributeValue.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/AbstractStringWritable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/util/AbstractCharAttributeValue.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/gssapi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/gssapi/Gs2Header.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/gssapi/Gs2CbindFlag.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/gssapi/Gs2Attributes.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/gssapi/Gs2AttributeValue.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/message" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/message/ClientFinalMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/message/ClientFirstMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/message/ServerFinalMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/message/ServerFirstMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/exception" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/exception/ScramException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/exception/ScramParseException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/exception/ScramServerErrorException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/exception/ScramInvalidServerSignatureException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/stringprep" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/stringprep/StringPreparation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/stringprep/StringPreparations.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        </favorite_root>
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/base64" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/base64/Base64.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/base64/Encoder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/base64/Base64Encoder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/base64/DecoderException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/base64/EncoderException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          </favorite_root>
+                          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/Mac.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/HMac.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/Pack.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/Arrays.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/Digest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/Strings.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/Integers.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/Memoable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/KeyParameter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/SHA256Digest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/DigestFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/GeneralDigest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/ExtendedDigest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/EncodableDigest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/CipherParameters.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/DataLengthException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/PBEParametersGenerator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/RuntimeCryptoException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/bouncycastle/pbkdf2/PKCS5S2ParametersGenerator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                          </favorite_root>
+                        </favorite_root>
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/ScramFunctions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/ScramMechanism.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/ScramAttributes.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/ScramMechanisms.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/ScramAttributeValue.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/scram/common/ScramStringFormatting.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/saslprep" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/saslprep/SaslPrep.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/stringprep" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/shaded/com/ongres/stringprep/StringPrep.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    </favorite_root>
+                  </favorite_root>
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/fastpath" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/fastpath/Fastpath.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/fastpath/FastpathArg.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric/PGbox.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric/PGline.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric/PGlseg.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric/PGpath.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric/PGpoint.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric/PGcircle.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/geometric/PGpolygon.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/HostStatus.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/HostChooser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/CandidateHost.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/HostRequirement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/MultiHostChooser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/SingleHostChooser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/HostChooserFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/hostchooser/GlobalHostStatusTracker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/largeobject" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/largeobject/LargeObject.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/largeobject/BlobInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/largeobject/BlobOutputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/largeobject/LargeObjectManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/logical" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/logical/LogicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/logical/LogicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/logical/LogicalReplicationOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/logical/ChainedLogicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/logical/ChainedLogicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/logical/StartLogicalReplicationCallback.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/physical" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/physical/PhysicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/physical/PhysicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/physical/PhysicalReplicationOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/physical/ChainedPhysicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/physical/ChainedPhysicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/physical/StartPhysicalReplicationCallback.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/CommonOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/ChainedStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/AbstractStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/ReplicationStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/AbstractCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/ChainedCommonStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/ReplicationCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/ChainedCommonCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/fluent/ChainedCreateReplicationSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/ReplicationType.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/LogSequenceNumber.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/PGReplicationStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/ReplicationSlotInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/PGReplicationConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/replication/PGReplicationConnectionImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_bg.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_cs.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_de.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_es.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_fr.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_it.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_ja.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_nl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_pl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_ru.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_sr.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_tr.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_pt_BR.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_zh_CN.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/translation/messages_zh_TW.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/Driver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/PGProperty.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/PGStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/PGConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/PGNotification.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/PGResultSetMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/org/postgresql/PGRefCursorResultSet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/org.postgresql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/org.postgresql/postgresql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/org.postgresql/postgresql/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/org.postgresql/postgresql/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.scram" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.scram/client" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.scram/client/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.scram/client/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.scram/common" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.scram/common/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.scram/common/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.stringprep" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.stringprep/saslprep" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.stringprep/saslprep/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.stringprep/saslprep/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.stringprep/stringprep" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.stringprep/stringprep/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/maven/com.ongres.stringprep/stringprep/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/LICENSE" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/services" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/services/java.sql.Driver" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://$USER_HOME$/Downloads/postgresql-42.2.8.jar!/META-INF/MANIFEST.MF" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+      </favorite_root>
+      <favorite_root url="org.postgresql:postgresql:42.2.6.jre7" type="namedLibrary" klass="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode">
+        <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds/common" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds/common/BaseDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds/common/PGObjectFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds/PGPooledConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds/PGSimpleDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds/PGPoolingDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ds/PGConnectionPoolDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/xa" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/xa/RecoveredXid.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/xa/PGXAException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/xa/PGXAConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/xa/PGXADataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/xa/PGXADataSourceFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/gss" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/gss/MakeGSS.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/gss/GssAction.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/gss/GSSCallbackHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/jdbc4" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/jdbc4/LibPQFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/MakeSSL.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/LibPQFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/LazyKeyManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/WrappedFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/NonValidatingFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/DefaultJavaSSLFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/PGjdbcHostnameVerifier.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/DbKeyStoreSocketFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/ssl/SingleCertValidatingFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy/CopyIn.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy/CopyOut.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy/CopyDual.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy/CopyManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy/CopyOperation.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy/PGCopyInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/copy/PGCopyOutputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/replication" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/replication/V3PGReplicationStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/replication/V3ReplicationProtocol.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/Portal.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/CopyInImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/CopyOutImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/SimpleQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/BatchedQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/CopyDualImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/CompositeQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/ExecuteRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/DescribeRequest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/V3ParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/CopyOperationImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/QueryExecutorImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/SimpleParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/ConnectionFactoryImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/CompositeParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/v3/TypeTransferModeRegistry.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Oid.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Field.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Query.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Utils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Parser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Version.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Encoding.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/PGStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Provider.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/TypeInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/SqlCommand.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/CachedQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/JavaVersion.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/NativeQuery.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/BaseQueryKey.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/Notification.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ResultCursor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/UTF8Encoding.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/BaseStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ParameterList.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/QueryExecutor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ResultHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ServerVersion.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/BaseConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/SqlCommandType.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/PGBindException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/CallableQueryKey.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/SetupQueryRunner.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/TransactionState.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ConnectionFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/EncodingPredictor.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/JdbcCallParseInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/QueryExecutorBase.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ResultHandlerBase.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ReplicationProtocol.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/SocketFactoryFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/CommandCompleteParser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/ResultHandlerDelegate.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/CachedQueryCreateAction.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/VisibleBufferedInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/core/QueryWithReturningColumnsKey.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgBlob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgClob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgArray.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/SslMode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/AutoSave.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgSQLXML.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgResultSet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/FieldMetadata.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PSQLSavepoint.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/ResultWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/TypeInfoCache.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/TimestampUtils.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/BooleanTypeUtil.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PreferQueryMode.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/AbstractBlobClob.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/EscapedFunctions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/EscapedFunctions2.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/BatchResultHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PSQLWarningWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgDatabaseMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/UUIDArrayAssistant.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgCallableStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgParameterMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgPreparedStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PgResultSetMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/StatementCancelState.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/PrimitiveArraySupport.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc/CallableBatchResultHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/osgi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/osgi/PGBundleActivator.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/osgi/PGDataSourceFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/sspi" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/sspi/NTDSAPI.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/sspi/SSPIClient.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/sspi/ISSPIClient.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/sspi/NTDSAPIWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/GT.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/Base64.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGTime.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGbytea.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGmoney.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/Gettable.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/HostSpec.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/LruCache.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGobject.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/URLCoder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/MD5Digest.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PSQLState.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/DriverInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGInterval.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGJDBCMain.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGTimestamp.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGtokenizer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PSQLWarning.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/SharedTimer.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/ByteConverter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/JdbcBlackHole.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/ObjectFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PSQLException.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/StreamWrapper.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/WriterHandler.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/PGBinaryObject.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/CanEstimateSize.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/GettableHashMap.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/HStoreConverter.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/ReaderInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/ServerErrorMessage.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/util/ExpressionProperties.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc2" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc2/optional" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc2/optional/ConnectionPool.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc2/optional/SimpleDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc2/optional/PoolingDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc2/ArrayAssistant.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc2/ArrayAssistantRegistry.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc3" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc3/Jdbc3ConnectionPool.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc3/Jdbc3SimpleDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/jdbc3/Jdbc3PoolingDataSource.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/fastpath" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/fastpath/Fastpath.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/fastpath/FastpathArg.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric/PGbox.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric/PGline.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric/PGlseg.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric/PGpath.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric/PGpoint.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric/PGcircle.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/geometric/PGpolygon.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/HostStatus.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/HostChooser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/CandidateHost.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/HostRequirement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/MultiHostChooser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/SingleHostChooser.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/HostChooserFactory.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/hostchooser/GlobalHostStatusTracker.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/largeobject" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/largeobject/LargeObject.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/largeobject/BlobInputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/largeobject/BlobOutputStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/largeobject/LargeObjectManager.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/logical" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/logical/LogicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/logical/LogicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/logical/LogicalReplicationOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/logical/ChainedLogicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/logical/ChainedLogicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/logical/StartLogicalReplicationCallback.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/physical" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/physical/PhysicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/physical/PhysicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/physical/PhysicalReplicationOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/physical/ChainedPhysicalStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/physical/ChainedPhysicalCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/physical/StartPhysicalReplicationCallback.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/CommonOptions.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/ChainedStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/AbstractStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/ReplicationStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/AbstractCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/ChainedCommonStreamBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/ReplicationCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/ChainedCommonCreateSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/fluent/ChainedCreateReplicationSlotBuilder.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/ReplicationType.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/LogSequenceNumber.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/PGReplicationStream.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/ReplicationSlotInfo.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/PGReplicationConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/replication/PGReplicationConnectionImpl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_bg.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_cs.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_de.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_es.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_fr.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_it.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_ja.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_nl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_pl.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_ru.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_sr.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_tr.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_pt_BR.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_zh_CN.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/translation/messages_zh_TW.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/Driver.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/PGProperty.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/PGStatement.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/PGConnection.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/PGNotification.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/PGResultSetMetaData.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/org/postgresql/PGRefCursorResultSet.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/maven" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/maven/org.postgresql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/maven/org.postgresql/postgresql" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/maven/org.postgresql/postgresql/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/maven/org.postgresql/postgresql/pom.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/LICENSE" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/services" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/services/java.sql.Driver" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="jar://$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.6.jre7/postgresql-42.2.6.jre7.jar!/META-INF/MANIFEST.MF" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/server/TubeImplementation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="312" column="44" selection-start-line="312" selection-start-column="44" selection-end-line="312" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/ServerData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/Item.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common/TubeInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>globalDo</find>
+      <find>downloadFile</find>
+      <find>URL</find>
+      <find>common.Server</find>
+      <find>System.out.pr</find>
+      <find>globalDown</find>
+      <find>-1</find>
+      <find>Result</find>
+      <find>ServerData</find>
+      <find>Selecte</find>
+      <find>Resu</find>
+      <find>Selected item</find>
+      <find>port</find>
+      <find>searc</find>
+      <find>searchb</find>
+      <find>searchB</find>
+      <find>conn</find>
+      <find>Integer</find>
+      <find>public Integer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/common/ServerData.java" />
+        <option value="$PROJECT_DIR$/src/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/common/TubeInterface.java" />
+        <option value="$PROJECT_DIR$/src/common/Item.java" />
+        <option value="$PROJECT_DIR$/src/server/TubeImplementation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="402" />
+    <option name="y" value="25" />
+    <option name="width" value="1518" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectId" id="1TTdc3WheXPVbAUJeq1uPNSNo1C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580490292983" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="common" />
+      <recent name="server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\golat\Desktop\my_projects\MyTubeProject\MyTubeProject\server\src\common" />
+      <recent name="C:\Users\golat\Desktop\my_projects\MyTubeProject\server\src\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Server" />
+      <module name="server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2f84efc-aa40-4584-8873-cb9a409dc6d0" name="Default Changelist" comment="" />
+      <created>1573488094780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573488094780</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.107360266" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47948164" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/server$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1576164039403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/ServerData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/TubeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/TubeImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="312" column="44" selection-start-line="312" selection-start-column="44" selection-end-line="312" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10.0.2+13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.8.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
